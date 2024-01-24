@@ -363,6 +363,11 @@ about
     text-align: center;
   }
 
+  #about img {
+    width: auto;
+    height: auto;
+  }
+
   /* 
 ===============
 pricing
