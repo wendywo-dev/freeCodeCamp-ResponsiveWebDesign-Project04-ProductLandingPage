@@ -40,7 +40,10 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
 
-### References
+## References
 
-Nuphy
+Website Design by Tran Quang Sang
+https://dribbble.com/shots/22449950-Keyboard-Landing-Page
+
+Product by Nuphy
 https://nuphy.com/products/air96-wireless-mechanical-keyboard
